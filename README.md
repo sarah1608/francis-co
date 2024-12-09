@@ -1,10 +1,9 @@
 # francis-co
 EXPLORER’S PARADISE- A TRAVEL BOOKING WEBSITE 
-TEAM NAME- FRANCIS&CO
-Github URL- https://github.com/sarah1608/francis-co
 
  
 ABSTRACT
+
 Our website is a one-stop destination for travel enthusiasts, allowing users to select from a variety of popular destinations. It offers curated itineraries highlighting must-visit attractions, hidden gems, and cultural landmarks . Users are given recommendations on must try food spots, from local delicacies to fine dining options, enhancing their culinary journey. With our comprehensive travel guide, users can effortlessly plan their trips and make the most of their chosen destinations.
 
 
